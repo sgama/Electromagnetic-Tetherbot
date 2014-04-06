@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Robot Commander</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_message">Command your robot</string>
+    <string name="mFollowButton_message">Start/Stop Following</string>
+    <string name="mForwardButton_message">Move Closer</string>
+    <string name="mBackwardButton_message">Move Away</string>
+    <string name="mRotateButton_message">Turn Around</string>
+    <string name="mParkButton_message">Parallel Park</string>
+
+</resources>
